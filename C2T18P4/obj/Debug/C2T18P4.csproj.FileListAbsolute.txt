@@ -1,0 +1,7 @@
+D:\215\Войнован Леонид && Михаил Ратушинский\C2T18P4\bin\Debug\C2T18P4.exe.config
+D:\215\Войнован Леонид && Михаил Ратушинский\C2T18P4\bin\Debug\C2T18P4.exe
+D:\215\Войнован Леонид && Михаил Ратушинский\C2T18P4\bin\Debug\C2T18P4.pdb
+D:\215\Войнован Леонид && Михаил Ратушинский\C2T18P4\obj\Debug\C2T18P4.csproj.AssemblyReference.cache
+D:\215\Войнован Леонид && Михаил Ратушинский\C2T18P4\obj\Debug\C2T18P4.csproj.CoreCompileInputs.cache
+D:\215\Войнован Леонид && Михаил Ратушинский\C2T18P4\obj\Debug\C2T18P4.exe
+D:\215\Войнован Леонид && Михаил Ратушинский\C2T18P4\obj\Debug\C2T18P4.pdb
